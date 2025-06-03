@@ -80,13 +80,13 @@ To understand the components of a strong password by testing various examples us
 
 ## 📸 Screenshots
 
-All strength evaluation screenshots are in the [`screenshots/`](./screenshots) folder:
+All strength evaluation screenshots are in the [`Screenshots/`](./Screenshots) folder:
 
-- [password_test1.png](./screenshots/password_test1.png) — `123456`
-- [password_test2.png](./screenshots/password_test2.png) — `password1`
-- [password_test3.png](./screenshots/password_test3.png) — `Pa$$w0rd2025`
-- [password_test4.png](./screenshots/password_test4.png) — `Tm3T0L3@rn#CS`
-- [password_test5.png](./screenshots/password_test5.png) — `C0mpl3x#CyberS3cur1ty!`
+- [password_test1.png](./Screenshots/password_test1.png) — `123456`
+- [password_test2.png](./Screenshots/password_test2.png) — `password1`
+- [password_test3.png](./Screenshots/password_test3.png) — `Pa$$w0rd2025`
+- [password_test4.png](./Screenshots/password_test4.png) — `Tm3T0L3@rn#CS`
+- [password_test5.png](./Screenshots/password_test5.png) — `C0mpl3x#CyberS3cur1ty!`
 
 ---
 
